@@ -72,7 +72,7 @@ education:
     date_start: 2017-09-01
     date_end: 2021-07-31
     summary: |
-      # GPA: 3.4/4.0
+    
 work:
   - position: Doctoral Student in Mathematics
     company_name: Aalto University
