@@ -64,9 +64,9 @@ education:
     summary: |
       GPA: 4.5/5.0
       Thesis on _Problems around Stanley-Wilf limits of Permutation_. Supervised by [Prof Parinya Chalermsook](https://sites.google.com/site/parinyachalermsook/).
-      button:
-        text: 'Read Thesis'
-        url: 'https://drive.google.com/file/d/1dsG0DClyvXnci1mHd4MosZJKTqq9HvBk/view?usp=sharing'
+    button:
+      text: 'Read Thesis'
+      url: 'https://drive.google.com/file/d/1dsG0DClyvXnci1mHd4MosZJKTqq9HvBk/view?usp=sharing'
   - area: BSc Mathematics
     institution: Saint Petersburg State University
     date_start: 2017-09-01
